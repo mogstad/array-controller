@@ -1,4 +1,12 @@
-array-controller
-================
+Run tests with:
 
-ArrayController
+```
+$ jasmine-node --coffee .
+```
+
+or autotest with:
+
+
+```
+$ jasmine-node --autotest --coffee .
+```
